@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
-    <Stable>
+    <Official>
         <tissot>
             <Filename>liquid_remix-9.1.0-tissot-official.zip</Filename>
             <RomUrl
@@ -16,5 +16,5 @@
             	title="OpenGApps"
             	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
         </tissot>
-    </Stable>
+    </Official>
 </SlimOTA>

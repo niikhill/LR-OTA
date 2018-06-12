@@ -7,7 +7,7 @@
 # * Chances are you only need to change the ota_url in this file 
 #
 ota_url=https://raw.githubusercontent.com/VenkatVishalV/LROTA/oc-mr2/tissot.xml
-release_type=Stable
+release_type=Official
 device_name=ro.liquid.device
 
 #
