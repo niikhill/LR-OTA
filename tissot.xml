@@ -2,15 +2,15 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <tissot>
-            <Filename>liquid_remix-9.1.0-tissot-official.zip</Filename>
+            <Filename>liquid_remix-9.1.1-20180612-OFFICIAL-tissot.zip</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for tissot">https://androidfilehost.com/?fid=818222786056032567</RomUrl>
+                description="Download latest build for tissot">https://bit.ly/2MjDy29</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="Click here to view latest changes">https://pastebin.com/e6fXzY0P</ChangelogUrl>
+                description="Click here to view latest changes">https://bit.ly/2JO8Csn</ChangelogUrl>
             <OpenGappsUrl
             	id="open_gapps"
             	title="OpenGApps"
