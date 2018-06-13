@@ -1,0 +1,35 @@
+====================
+     13-06-2018
+====================
+Device Specific:
+*Liquid Version bumped to 9.1.1
+*Added OTA support
+*Fixed USB Tethring
+*Added gcam as default camera and disabled snap
+*Fixed Hardware keys disable issues
+*Set GPU and CPU Max speed to stock speeds on boot
+Kernel Changes:
+*Upstreamed Kernel to 3.18.112
+*Merged Latest Caf tags
+*Added Maple(default) and bfq i/o schedulers
+*Added Relaxed and Chill governors
+*Enabled Boeffla WakeLock Blocker
+*Enabled USB fast charge
+*Enabled Qnovo charging interface
+*Added INTELLI_THERMAL
+*Added fsync ON/OFF support
+*Added Adreno Idler and enabled State Notifier
+*Fixed double tap to wake when system sleeps
+
+ROM Specific:
+[*]Added jelly browser and eleven music player to build
+[*]Pixel2Mod-Arnova8G2-V7.9.9 google camera ([url=https://www.celsoazevedo.com/files/android/google-camera/op5fix/]color fix[/url])
+[*]Added omni switch style to recent settings (lounge)
+[*]Added slim recents style to recent settings (lounge)
+[*]Added disable wallpaper to recents settings (lounge)
+[*]Added audio visualizer to lock screen settings (lounge)
+[*]Added disable wallpaper tint to power menu settings (lounge)
+[*]Added clock and date styles to lock screen settings (lounge)
+[*]Added disable wallpaper tint to lock screen settings (lounge)
+[*]Added disable wallpaper tint to notification settings (lounge)
+[*]Added liquid remix ota updates to about phone (settings)
