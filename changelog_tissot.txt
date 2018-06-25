@@ -1,4 +1,41 @@
 ====================
+     25-06-2018
+====================
+Device Specific:
+*Liquid Version bumped to 9.1.2
+*Update Gcam to Pixel3Mod V4 By Arnova8G2
+*Added DTS-Eagle audio HAL Features
+*Added Sim Enable/Disable Toggle
+*Fixed Power Menu Lag when more than 5 options are added to the menu
+*Added Caffine Tile Timer
+*Added Force Expanded Notifications support
+Kernel Changes:
+*Upstreamed Kernel to 3.18.113
+*Merged Latest Caf tags
+*drivers: prima: Update to CAF Tag LA.UM.6.6.r1-08900-89xx.0
+*Improved cfq and maple i/o schedulers
+*Improved tcp westwood
+*Added Sound Control
+*Added ARM64 CRC32 hw accelerated module
+*Updated f2fs to v4.17-rc1
+*Added support for TTL fixation
+*Enabled DTS-Eagle integration
+*Improved interactive governor
+
+ROM Specific:
+[*]Frameworks base bug fixes and security updates
+[*]Remove lounge unused imports and content resolvers
+[*]Added power menu ripple effects and menu scrolling
+[*]Added rounded recent cards when using aosp recents
+[*]Added screen record and its quick tile enhancements
+[*]Show center clock when you pull down quick settings
+[*]Added kill any app and locking tasks to aosp recents
+[*]Added back other caffeine tile default timer options
+[*]Immersive mode and sound search quick settings tiles
+[*]Added ambient music ticker bug fixes and improvements
+[*]Added extended UI theme and 5 brand new color accents
+
+====================
      13-06-2018
 ====================
 Device Specific:
