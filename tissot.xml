@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <tissot>
-            <Filename>9.1.2-20180625-OFFICIAL-tissot</Filename>
+            <Filename>9.1.2-20180626-OFFICIAL-tissot</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for tissot">https://www.androidfilehost.com/?fid=962339331459003030</RomUrl>
+                description="Download latest build for tissot">https://sourceforge.net/projects/liquid-remix-tissot/files/liquid_remix-9.1.2-20180626-OFFICIAL-tissot.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -23,6 +23,10 @@
                 id="magisk"
                 title="StableMagisk"
                 description="Download latest magisk zip for root">https://forum.xda-developers.com/apps/magisk</MagiskUrl>
+             <DonationUrl
+                id="donate"
+                title="Donate"
+                description="Like my work?Click here, to buy me a coffee then :D">http://paypal.me/VenkatVV</DonationUrl>
         </tissot>
     </Official>
 </SlimOTA>

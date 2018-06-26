@@ -1,4 +1,14 @@
 ====================
+     26-06-2018
+====================
+*Liquid Upstream
+*Fixed OTA Support
+*Fixed that annoying battery/charging bug and a few more weird bugs that people reported while they were on yesterday's build
+Kernel Changes:
+*Added BLU_ACTIVE,CLARITY,IMPULSE GOVERNORS
+*Added CPU Boost
+
+====================
      25-06-2018
 ====================
 Device Specific:
