@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <tissot>
-            <Filename>9.1.2-20180626-OFFICIAL-tissot</Filename>
+            <Filename>9.1.3-20180713-OFFICIAL-tissot</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for tissot">https://sourceforge.net/projects/liquid-remix-tissot/files/liquid_remix-9.1.2-20180626-OFFICIAL-tissot.zip/download</RomUrl>
+                description="Download latest build for tissot">https://www.androidfilehost.com/?fid=5862345805528047519</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
