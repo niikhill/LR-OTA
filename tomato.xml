@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Official>
+        <tomato>
+            <Filename>9.1.2-20180713-OFFICIAL-tomato</Filename>
+            <RomUrl
+                id="rom"
+                title="LiquidRemix"
+                description="Download latest build for tomato">https://sourceforge.net/projects/kcuf/files/Phenomenal/Liquid/liquid_remix-9.1.2-20180625-OFFICIAL-tomato.zip/download</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="Click here to view latest changes">https://bit.ly/2JO8Csn</ChangelogUrl>
+            <OpenGappsUrl
+            	id="open_gapps"
+            	title="OpenGApps"
+            	description="Download latest OpenGApps for Android Oreo">https://opengapps.org</OpenGappsUrl>
+            <TelegramGroupUrl
+                id="telegram_group"
+                title="TelegramGroup"
+                description="Join Telegram For Support regarding features and bug fixes">https://t.me/CarbonRomandLR</TelegramGroupUrl>
+	    <MagiskUrl
+                id="magisk"
+                title="StableMagisk"
+                description="Download latest magisk zip for root">https://forum.xda-developers.com/apps/magisk</MagiskUrl>
+             <DonationUrl
+                id="donate"
+                title="Donate"
+                description="Like my work?Click here, to buy me a coffee then :D">http://paypal.me/VenkatVV</DonationUrl>
+        </tomato>
+    </Official>
+</SlimOTA>
