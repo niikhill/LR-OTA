@@ -23,10 +23,6 @@
                 id="magisk"
                 title="StableMagisk"
                 description="Download latest magisk zip for root">https://forum.xda-developers.com/apps/magisk</MagiskUrl>
-             <DonationUrl
-                id="donate"
-                title="Donate"
-                description="Like my work?Click here, to buy me a coffee then :D">http://paypal.me/VenkatVV</DonationUrl>
         </tomato>
     </Official>
 </SlimOTA>
