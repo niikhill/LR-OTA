@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <tomato>
-            <Filename>9.1.3-20180719-OFFICIAL-tomato</Filename>
+            <Filename>9.1.2-20180713-OFFICIAL-tomato</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for tomato">https://sourceforge.net/projects/kcuf/files/Phenomenal/Liquid/liquid_remix-9.1.3-20180719-OFFICIAL-tomato.zip/download</RomUrl>
+                description="Download latest build for tomato">https://sourceforge.net/projects/kcuf/files/Phenomenal/Liquid/liquid_remix-9.1.2-20180625-OFFICIAL-tomato.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
