@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for tomato"></RomUrl>
+                description="Download latest build for mido"></RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
