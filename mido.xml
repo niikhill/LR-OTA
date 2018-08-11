@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
-        <tomato>
-            <Filename>9.1.3-20180719-OFFICIAL-tomato</Filename>
+        <mido>
+            <Filename>9.1.4-20180811-OFFICIAL-mido</Filename>
             <RomUrl
                 id="rom"
                 title="LiquidRemix"
-                description="Download latest build for tomato">https://sourceforge.net/projects/kcuf/files/Phenomenal/Liquid/liquid_remix-9.1.3-20180719-OFFICIAL-tomato.zip/download</RomUrl>
+                description="Download latest build for tomato"></RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -18,11 +18,11 @@
             <TelegramGroupUrl
                 id="telegram_group"
                 title="TelegramGroup"
-                description="Join Telegram For Support regarding features and bug fixes">https://t.me/KcufBuilds</TelegramGroupUrl>
+                description="Join Telegram For Support regarding features and bug fixes">https://t.me/lrandpe</TelegramGroupUrl>
 	    <MagiskUrl
                 id="magisk"
                 title="StableMagisk"
                 description="Download latest magisk zip for root">https://forum.xda-developers.com/apps/magisk</MagiskUrl>
-        </tomato>
+        </mido>
     </Official>
 </SlimOTA>
