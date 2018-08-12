@@ -1,13 +1,128 @@
-ROM Specific: v9.1.3 
-[*]New july security update (OPM2.171026.006.H1) 
-[*]Frameworks base bug fixes and security updates 
-[*]Lounge: Added Chocolate UI 
-[*]Lounge: Added Gesture Anywhere feature 
-[*]Lounge: Fixed Data Suspend option 
+[img]https://i.imgur.com/ky5sZz7.png[/img]
+[b][size="4"][color=#2e8dff]Liquid Remix v9.1[/color][/size][/b]
+[size="4"][list]
+[*]New may security update (OPM2.171019.029.B1)
+[*]Rebased ROM from aosp with miniumal lineage
+[*]New sliding tabs interface in liquid lounge
+[*]New default liquid remix dark default wallapaper
+[*]Updated default launcher to dark pixel launcher
+[*]Updated device trees and vendor from lineage
+[*]Google camera portrait mode, hdr+ and dot fixes
+[*]Pixel2Mod-Arnova8G2-V7.9 google camera ([url=https://www.celsoazevedo.com/files/android/google-camera/op5fix/]color fix[/url])
+[*]Singularity v1.05 kernel upstreamed to v4.4.131
+[*]Kernel is built using latest aosp clang v7.0.2
+[*]Disable bluetooth from enabled on first boot
+[*]Added music tile to available quick settings
+[*]Added theme color to available quick settings
+[*]Added smart pixel to available quick settings
+[*]Fixed xposed framework mods and zarchiver app
+[*]Optimized scrolling performance and animation
+[*]Fixed toast notification layout and color bug
+[*]Fixed sim color picker in mobile sim settings
+[*]Moved volume rocker options to sound settings
+[*]New fruity pebbles themes in display settings
+[*]New font options available in display settings
+[*]Theme recents FAB and membar with active color
+[*]New liquid information in about phone settings
+[*]Per-app data and wifi restrictions in settings
+[*]Added ROM changelog to about phone in settings
+[*]Added smart pixels options to display settings
+[*]Force pre-O apps to use full screen aspect ratio
+[*]Added serveral system font types to font manager
+[*]Moved ambient ticker options to display settings
+[*]Fling reset and save to nav bar settings (lounge)
+[*]Added hide items to lock screen settings (lounge)
+[*]Added pulse lava lamp to nav bar settings (lounge)
+[*]Night light default to medium brightness (display)
+[*]Added toast icon to notification settings (lounge)
+[*]Added icon pack support to recent settings (lounge)
+[*]Moved hardware buttons to nav bar settings (lounge)
+[*]Added hide indicator to lock screen settings (lounge)
+[*]Added hide lock icon to lock screen settings (lounge)
+[*]Added hide status bar to lock screen settings (lounge)
+[*]Added wake and unlock to lock screen settings (lounge)
+[*]Increased suspend actions delay to use minutes (lounge)
+[*]Added 4G instead of LTE to status bar settings (lounge)
+[*]Rearranged and organized liquid lounge settings (lounge)
+[*]Cleaned up a lot of strings and grammar mistakes (lounge)
+[*]Added disable data indicator to status bar settings (lounge)
+[*]Added disable running services icon to quick settings (lounge)
+[*]Added disable roaming indicator to status bar settings (lounge)[/list]
+[/size]
+[b][size="4"][color=#2e8dff]Liquid Remix v9.1.1[/color][/size][/b]
+[size="4"][list]
+[*]New june security update (OPM2.171026.006.C1)
+[*]Frameworks base bug fixes and security updates
+[*]Singularity v1.0.12 kernel upstreamed to v4.4.136
+[*]Updated device trees and vendor from aex and lineage
+[*]Added jelly browser and eleven music player to build
+[*]Pixel2Mod-Arnova8G2-V7.9.9 google camera ([url=https://www.celsoazevedo.com/files/android/google-camera/op5fix/]color fix[/url])
+[*]Added omni switch style to recent settings (lounge)
+[*]Added slim recents style to recent settings (lounge)
+[*]Added disable wallpaper to recents settings (lounge)
+[*]Added audio visualizer to lock screen settings (lounge)
+[*]Added disable wallpaper tint to power menu settings (lounge)
+[*]Added clock and date styles to lock screen settings (lounge)
+[*]Added disable wallpaper tint to lock screen settings (lounge)
+[*]Added disable wallpaper tint to notification settings (lounge)
+[*]Added liquid remix ota updates to about phone (settings)
+[*]Added changelog and gapps to liquid remix ota (settings)[/list]
+[/size]
+[b][size="4"][color=#2e8dff]Liquid Remix v9.1.2[/color][/size][/b]
+[size="4"][list]
+[*]New june security update (OPM2.171026.006.C1)
+[*]Frameworks base bug fixes and security updates
+[*]Singularity v1.0.16 kernel upstreamed to v4.4.138
+[*]Updated device trees and vendor from aex and lineage
+[*]Uses the latest official oos updated firmware v5.1.3
+[*]Pixel2Mod-Arnova8G2-V8.0 google camera ([url=https://www.celsoazevedo.com/files/android/google-camera/op5fix/]color fix[/url])
+[*]Remove lounge unused imports and content resolvers
+[*]Added power menu ripple effects and menu scrolling
+[*]Added rounded recent cards when using aosp recents
+[*]Added screen record and its quick tile enhancements
+[*]Show center clock when you pull down quick settings
+[*]Added kill any app and locking tasks to aosp recents
+[*]Added back other caffeine tile default timer options
+[*]Immersive mode and sound search quick settings tiles
+[*]Added ambient music ticker bug fixes and improvements
+[*]Added extended UI theme and 5 brand new color accents[/list]
+[/size]
+[b][size="4"][color=#2e8dff]Liquid Remix v9.1.3[/color][/size][/b]
+[size="4"][list]
+[*]New july security update (OPM2.171026.006.H1)
+[*]Frameworks base bug fixes and security updates
+[*]Singularity v1.0.21 kernel upstreamed to v4.4.140
+[*]Updated device trees and vendor from aex and lineage
+[*]Uses the latest official oos updated firmware v5.1.3
+[*]Pixel2Mod-Arnova8G2-MinimalSettings-Tolyan009-v4.3 ([url=https://www.celsoazevedo.com/files/android/google-camera/op5fix/]color fix[/url])
+[*]Lounge: Added Chocolate UI
+[*]Lounge: Added Gesture Anywhere feature
+[*]Lounge: Fixed Data Suspend option
 [*]Added Android P Volume Panel 
-[*]Fixed LockClock Font & Size resetting after reboot 
-[*]Power menu advanced reboot was made more dynamic 
+[*]Fixed LockClock Font & Size resetting after reboot
+[*]Power menu advanced reboot was made more dynamic
 [*]Add High Brightness Mode QS Tile
 [*]Fixed preferred calls sim not being disabled[/list]
+[/size]
+[b][size="4"][color=#2e8dff]Liquid Remix v9.1.4[/color][/size][/b]
+[size="4"][list]
+[*]New august security update (OPM6.171019.030.H1)
+[*]Frameworks base bug fixes and security updates
+[*]Lounge: Added App Circle Sidebar
+[*]Lounge: Added OP like navigation gestures
+[*]Lounge: Fixed QS Tile accents
+[*]Added call recording 
+[*]Added Gaming Mode Tile
+[*]Phone,Contacts,Documents apps are now themeable
+[*]Screenrecord: Improvements for notification
+[*]Improved MTP
+[*]Added ScreenStablization toggle in disaplay setiings
+[*]Added ScreenStablization QS Tile
+[*]Improved Theming and Substratum Support
+[*]Improved IMS and VoLTE support
+[*]Wired/BT headset: make ringtone audio focus customizable
+[*]Added ripple effect to the buttons to the left and right of the brightness slider[/list]
+[/size]
+
 
 
