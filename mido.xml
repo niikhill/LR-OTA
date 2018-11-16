@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Official>
         <mido>
-            <Filename>serein_mido_kekzu_pie-1.0-OFFICIAL-20181116.zip</Filename>
+            <Filename>serein_mido_kekzu_pie-1.0-OFFICIAL-20181117.zip</Filename>
             <RomUrl
                 id="rom"
                 title="SereinOS"
-                description="Download latest build for mido"></RomUrl>
+                description="Download latest build for mido">https://www.androidfilehost.com/?fid=11410932744536984295</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
